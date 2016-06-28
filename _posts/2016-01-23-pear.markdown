@@ -11,7 +11,7 @@ description: "A date venue discovery app"
 jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 # author: johndoe
 ---
-##Asterix
+## Asterix
 Data visualisation of Asteroids in space
 
 ![Screenshot](https://scontent.xx.fbcdn.net/v/t1.0-9/13495284_10157028557995394_4082327156069928423_n.jpg?oh=e3a6a77b702ec8109899e4398bc0c92e&oe=57FD2592)
