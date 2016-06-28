@@ -10,8 +10,8 @@ description: Some thoughts & projects that I've accumulated along the way.
 external-image: false
 picture: assets/images/profile2.jpg
 
-url: http://koppl.in/indigo
-your url: http://trcywu.github.io
+url: http://tracy-wu.com 
+your url: http://tracy-wu.com
 
 permalink: /:title/
 
@@ -101,6 +101,6 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: #
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
