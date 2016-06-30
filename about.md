@@ -32,14 +32,6 @@ Working alongside Agile/SCRUM teams with SDLC understanding
 	<li>TDD</li>
 </ul>
 
-<h2>Technologies I've used</h2>
-<ul class="tech">
-<li><img src=""></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
 
 <!-- Skill Start -->
 
@@ -49,22 +41,22 @@ Working alongside Agile/SCRUM teams with SDLC understanding
         <ul class = "skill col-md-2 col-xs-6 col-sm-6 text-center">
           <li class="text-center">
             <div class="skill-image hvr-pulse">
-                <img class="img-responsive" src="assets/images/skills/angular-icon.svg" alt="">
+                <img class="img-responsive" src="assets/images/skills/api.png" alt="">
             </div>
           </li>
           <li class="text-center">
             <div class="skill-image hvr-pulse">
-                <img class="img-responsive" src="assets/images/skills/api.svg" alt="">
+                <img class="img-responsive" src="assets/images/skills/discover.png" alt="">
             </div>
           </li>
           <li class="text-center">
             <div class="skill-image hvr-pulse">
-                <img class="img-responsive" src="assets/images/skills/chai.svg" alt="">
+                <img class="img-responsive" src="assets/images/skills/express.png" alt="">
             </div>
           </li>
           <li class="text-center">
             <div class="skill-image hvr-pulse">
-                <img class="img-responsive" src="assets/images/skills/css-3-logo.svg.svg" alt="">
+                <img class="img-responsive" src="assets/images/skills/git_logo.ng" alt="">
             </div>
           </li>
         </ul>
@@ -74,10 +66,11 @@ Working alongside Agile/SCRUM teams with SDLC understanding
 <!-- Skill End -->
 
 
-<h2>Projects</h2>
+<!-- <h2>Projects</h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+ -->

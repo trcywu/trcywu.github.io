@@ -12,7 +12,7 @@ jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.gi
 # author: johndoe
 ---
 ## Asterix
-Data visualisation of Asteroids in space
+Data visualisation of Asteroids in space using a NSA API
 
 ![Screenshot](https://scontent.xx.fbcdn.net/v/t1.0-9/13495284_10157028557995394_4082327156069928423_n.jpg?oh=e3a6a77b702ec8109899e4398bc0c92e&oe=57FD2592)
 
@@ -28,31 +28,12 @@ Technologies:
 
 [Check out the code](https://github.com/trcywu/asterix) here, or play the [Demo](http://asterixapp.heroku.com/).
 
-{% highlight raw %}
----
-{% endhighlight %}
 
-Pear - A date venue discovery app
+<div class="breaker"></div>
 
-![Screenshot](https://scontent.xx.fbcdn.net/v/t1.0-9/13501927_10157028408680394_6467797490148324132_n.jpg?oh=c475da5f9073b70fec86442bc15c611e&oe=58090EE9)
 
-Pear is a date venue finding app that allows a user to search by location for date locations anywhere in the world. The user can then filter the venues based on the intentions of their date and find out more information. It was built as part of a three person collaborative group project and uses the Google Maps & Google Places API.
-
-Technologies:
-
-- HTML
-- CSS
-- JavaScript
-- jQuery
-- NodeJS
-- Express
-- MongoDB
-- Bootstrap
-
-[Check out the code](https://github.com/trcywu/pear) here, or play the [Demo](http://pearapp.heroku.com/).
-
-------
-Flares - Last minute ticket discovery platform
+## Pear
+A date venue discovery app
 
 ![Screenshot](https://scontent.xx.fbcdn.net/v/t1.0-9/13501927_10157028408680394_6467797490148324132_n.jpg?oh=c475da5f9073b70fec86442bc15c611e&oe=58090EE9)
 
@@ -70,4 +51,26 @@ Technologies:
 - Bootstrap
 
 [Check out the code](https://github.com/trcywu/pear) here, or play the [Demo](http://pearapp.heroku.com/).
+
+<div class="breaker"></div>
+
+## Flares
+Don't let fun go to waste. Let someone else take your place. 
+
+![Screenshot](https://scontent.xx.fbcdn.net/v/t1.0-9/13124963_10156810730180394_2148908721697368316_n.jpg?oh=05769457d95dfe790e875af17f855895&oe=57ED8D7C)
+
+Every day, hundreds of tickets and reservations that could not be honoured at the last minute due to conflicting circumstances are gone to waste. Flares is a website where users can browse through last minute listings of tickets/events that people cannot attend and are happy to give away to whoever is available.
+
+Technologies:
+
+
+- Ruby on Rails 4
+- MongoDB
+- HTML
+- CSS
+- Geolocation
+- Commentable with threading
+- Bootstrap
+
+[Check out the code](https://github.com/trcywu/flares) here, or play the [Demo](http://flaresapp.heroku.com/).
 
